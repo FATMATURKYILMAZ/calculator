@@ -1,2 +1,2 @@
 # calculator
-src(Ekran Alıntısı.PNG)
+<img src="Ekran Alıntısı.PNG">
